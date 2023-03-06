@@ -1,6 +1,6 @@
 {
   "name": "@juadz/cache-memory",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "",
   "main": "build/src/index.js",
   "scripts": {
@@ -29,9 +29,7 @@
     "typescript": "~4.7.0"
   },
   "peerDependencies": {
-    "@juadz/core": "^0.1.2"
-  },
-  "dependencies": {
+    "@juadz/core": "^0.1.2",
     "memory-cache": "^0.2.0"
   }
 }
