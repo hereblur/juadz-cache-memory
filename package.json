@@ -1,6 +1,6 @@
 {
-  "name": "@juadz/juadz-cache-memory",
-  "version": "0.1.1",
+  "name": "@juadz/cache-memory",
+  "version": "0.1.2",
   "description": "",
   "main": "build/src/index.js",
   "scripts": {
